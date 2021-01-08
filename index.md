@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>洪铭淋</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>福建农林大学计算机与信息学院</b></p>
+      <p><b>研究方向：计算机视觉</b></p>
+      <p><b>邮箱：minglinhong08@gmail.com</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/2.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/hongminglin08/hongminglin08.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
+- 2011.9-2014.6 福建省 国光中学
+- 2014.9-2018.6 福建农林大学 计算机与信息学院
+- 2018.9-至今 福建农林大学 计算机与信息学院 计算机视觉方向 硕士
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 发表论文
+- Minglin Hong, Xiaolin Li, Jing Wang, Haiyang He, Shiguo Huang. A Hybrid Salient Object Detection with Global Context Awareness[C].IEEE International Conference on Big Data, 2020
+- Shiguo Huang, Minglin Hong, Yanhong Lin, et al. Binary Competitive Swarm Optimizer Algorithm for Feature Selection in Identification of Chinese Fir Family[C].ISPA/BDCloud/SocialCom/SustainCom, 2019
+- Yanhong Lin, Shiguo Huang, Minglin Hong, et al. MD5 Encryption Algorithm Enhanced Competitive Swarm Optimizer for Feature Selection[C].ISPA/BDCloud/SocialCom/SustainCom, 2019
+- 林达坤, 黄世国, 林燕红, 洪铭淋. 基于差分进化和森林优化混合的特征选择[J]. 小型微型计算机系统, 2019
 
-### Markdown
+### 荣誉奖励
+- 2017 年 5 月 获得校优秀共青团干部
+- 2016 年 12 月 获得国家励志奖学金
+- 2015 年 11 月 获得校二等奖学金
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hongminglin08/hongminglin08.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 参加项目
+- 基于物联网的松墨天牛诱捕器智能监控管理系统开发
+- 基于本体的鳞翅目森林害虫自动识别
