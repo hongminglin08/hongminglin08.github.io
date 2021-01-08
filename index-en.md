@@ -5,12 +5,12 @@
       <h1>Minglin Hong</h1>
       <p><b>Master</b></p>
       <p><b>College of Computer and Information Sciences, Fujian Agriculture and Forestry University</b></p>
+      <p><b>Research Interest: computer vision, object detection</b></p>
       <p><b>E-mail：minglinhong08@gmail.com</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/2.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -32,5 +32,5 @@
 - 2016/12 National Encouragement scholarship
 
 ### Project
-- Intelligent monitoring and management system for Monochamus alternatus based on Internet of Things基于物联网的松墨天牛诱捕器智能监控管理系统开发
+- Intelligent monitoring and management system for Monochamus alternatus based on Internet of Things
 - Ontology-based automatic identification of lepidopteran forest pests
